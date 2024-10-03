@@ -1,0 +1,5 @@
+Hosting - Webzdarma.cz
+Login - archapass.kvalitne.cz
+Passwd - ArchaPlus
+SQL pristup - V sekci MySql a PHP
+Vsechny použité soubory jsou ve složce web
